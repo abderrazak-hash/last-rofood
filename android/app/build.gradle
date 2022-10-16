@@ -50,7 +50,7 @@ android {
     defaultConfig {
         applicationId "com.mathgame.play"
         // TODO workaround for https://github.com/fluttercommunity/flutter_launcher_icons/issues/324
-        minSdkVersion 19
+        minSdkVersion 21
         // minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
